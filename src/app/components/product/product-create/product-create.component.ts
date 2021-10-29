@@ -11,8 +11,8 @@ import { ProductService } from '../product.service';
 export class ProductCreateComponent implements OnInit {
 
   product :Product  = {
-    descricao:'angular teste',
-    preco:'200'
+    descricao:'',
+    preco: ''
    
   }
 
