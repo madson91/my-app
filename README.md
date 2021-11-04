@@ -10,6 +10,12 @@ Projeto simples em angular consumindo uma api rest.
 
 #Layout
 
+![img_1](https://github.com/madson91/my-app/blob/master/assets/Capturar.PNG)
+![img_2](https://github.com/madson91/my-app/blob/master/assets/Capturar1.PNG)
+![img_3](https://github.com/madson91/my-app/blob/master/assets/Capturar2.PNG)
+![img_5](https://github.com/madson91/my-app/blob/master/assets/Capturar4.PNG)
+![img_4](https://github.com/madson91/my-app/blob/master/assets/Capturar3.PNG)
+
 
 
 
