@@ -3,12 +3,12 @@
 # Primeiro projeto em angular
 
 ```
-Projeto em angular consumindo uma api rest.
+Projeto simples em angular consumindo uma api rest.
 ```
 
 
 
-
+#Layout
 
 
 
